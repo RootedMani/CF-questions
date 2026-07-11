@@ -37,5 +37,3 @@ In the third sample, Atrem can first give Masha 2 stones, a then 1 more stone.
 
 In the fourth sample, Atrem can first give Masha 1 stone, then 2 stones, and finally 1 stone again.
 
-Link: https://codeforces.com/group/5AhnQzBd7I/contest/368479/problem/D
-
